@@ -1,0 +1,1 @@
+insert into  funcionario (nome_funcionario,login,senha,roule,token)  values ('Admin','admin','admin','Todas','03380666599')

@@ -1,0 +1,1 @@
+alter table funcionario add column token varchar(250) not null;
